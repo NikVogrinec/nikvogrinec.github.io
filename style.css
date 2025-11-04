@@ -1,0 +1,28 @@
+body {
+    background-image: url('background.jpg');
+    background-size: 1920px;
+    background-color: rgba(0, 0, 0, 0.61);
+    background-blend-mode: overlay;
+}
+
+h1 {
+    font-family: "press start 2p";
+    color: whitesmoke;
+}
+
+a {
+color: #ca3636;
+text-decoration: none;
+font-family: 'poppins'
+}
+
+.vrstica {
+    text-align: center;
+    word-spacing: 30px;
+    transition: all 0.3s ease;
+}
+
+.vrstica a:hover {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
