@@ -11,5 +11,5 @@ The website has 3 pages:
 
 ## Credit
 
-The project was made by @JAQLIV -> https://github.com/JAQLIV
+The guns.lol inspired page was made by @JAQLIV -> https://github.com/JAQLIV  
 Thanks to him i managed to modify it and add my own assets.
